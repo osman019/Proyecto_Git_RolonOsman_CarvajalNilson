@@ -24,3 +24,4 @@ Manejo de conflictos y merges entre ramas.
 ## Acerca de 👤
 
 Este trabajo fue desarrollado por (osmanortizrolon@gmail.com) y (nilsoncarvajal567@gmail.com)
+Este trabajo fue desarrollado por (osmanortizrolon@gmail.com) y (nilsoncarvajal567@gmail.com)
